@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=igorNeves007&color=006bed)
 
 <h3> 👨‍💻 About me: </h3>
 
@@ -42,3 +41,5 @@ Exploring new technologies and developing software solutions.
 [![Linkedin: IgorNeves](https://img.shields.io/badge/-IgorNeves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-neves-8ba5a8215/)](https://www.linkedin.com/in/igor-neves-8ba5a8215/)
 [![Gmail Badge](https://img.shields.io/badge/-igorneves0404@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorneves0404@gmail.com)](mailto:igorneves0404@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/igorNeves007?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+
+![](https://komarev.com/ghpvc/?username=igorNeves007&color=006bed)
