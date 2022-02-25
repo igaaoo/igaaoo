@@ -14,9 +14,9 @@ Exploring new technologies and developing software solutions.
  - 🌱 &nbsp; Now learning React and Typescript
 
 <br/>
-<div style="width: 400px">
+
 [![igorNeves007](https://github-readme-stats.vercel.app/api?username=igorNeves007&theme=tokyonight)](https://github.com/igorNeves007/)
-</div>
+
 <h3> :rocket: &nbsp;My Skills: </h3>
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
