@@ -1,7 +1,7 @@
 
 <h3> 👨‍💻 About me: </h3>
 
-Game developer and designer with
+Developer and designer with
 artistic ability in various
 editing and development programs.
 Focusing on simplicity and effectiveness
