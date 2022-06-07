@@ -15,8 +15,6 @@ Always exploring new technologies and developing software solutions.
 
 <br/>
 
-[![igorNeves007](https://github-readme-stats.vercel.app/api?username=igorNeves007&theme=tokyonight)](https://github.com/igorNeves007/)
-
 <h3> :rocket: &nbsp;My Skills: </h3>
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,9 +29,9 @@ Always exploring new technologies and developing software solutions.
   ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-
-
 <br/>
+
+[![igorNeves007](https://github-readme-stats.vercel.app/api?username=igorNeves007&theme=tokyonight)](https://github.com/igorNeves007/)
 
 <h3> :earth_americas: &nbsp;Contact me: </h3> 
 
