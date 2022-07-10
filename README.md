@@ -37,9 +37,9 @@ Always exploring new technologies and developing software solutions.
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   
-
-
+ 
 <br/>
 
 [![igorNeves007](https://github-readme-stats.vercel.app/api?username=igorNeves007&theme=tokyonight)](https://github.com/igorNeves007/)
