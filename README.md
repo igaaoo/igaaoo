@@ -9,7 +9,7 @@ of resources.
 
  - 🤔 &nbsp; 
 Always exploring new technologies and developing software solutions.
- - 🎓 &nbsp; Studying Systems and digital medias in <a href="https://www.ufc.br">Federal University of Ceará</a>.
+ - 🎓 &nbsp; Studying Systems and Digital Medias in <a href="https://www.ufc.br">Federal University of Ceará</a>.
  - 💼 &nbsp; Working with game design
  - 🌱 &nbsp; Now learning React and Typescript
 
