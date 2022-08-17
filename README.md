@@ -15,7 +15,7 @@ Always exploring new technologies and developing software solutions.
  - 💼 &nbsp; Working with game design
  - 🌱 &nbsp; Now learning React and Typescript
 
-<i> "Et quacumque viam dederit fortuna sequamur" </i>
+<p align="center"><i> "Et quacumque viam dederit fortuna sequamur" </i></p>
 <br/>
 <h3> :rocket: &nbsp;My Skills: </h3>
 
