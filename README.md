@@ -16,7 +16,6 @@ Always exploring new technologies and developing software solutions.
  - 🌱 &nbsp; Now learning React and Typescript
 
 <i> "Et quacumque viam dederit fortuna sequamur" </i>
-
 <br/>
 <h3> :rocket: &nbsp;My Skills: </h3>
 
