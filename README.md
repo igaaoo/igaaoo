@@ -7,13 +7,15 @@ editing and development programs.
 Focusing on simplicity and effectiveness
 of resources.
 
-<i> "Et quacumque viam dederit fortuna sequamur" </i>
+
 
  - 🤔 &nbsp; 
 Always exploring new technologies and developing software solutions.
  - 🎓 &nbsp; Studying Systems and Digital Medias in <a href="https://www.ufc.br">Federal University of Ceará</a>.
  - 💼 &nbsp; Working with game design
  - 🌱 &nbsp; Now learning React and Typescript
+
+<i> "Et quacumque viam dederit fortuna sequamur" </i>
 
 <br/>
 <h3> :rocket: &nbsp;My Skills: </h3>
