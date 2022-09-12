@@ -9,11 +9,11 @@ of resources.
 
 
 
- - 🤔 &nbsp; 
+ 🤔 &nbsp; 
 Always exploring new technologies and developing software solutions.
- - 🎓 &nbsp; Studying Systems and Digital Medias in <a href="https://www.ufc.br">Federal University of Ceará</a>.
- - 💼 &nbsp; Working with game design
- - 🌱 &nbsp; Now learning React and Typescript
+ 🎓 &nbsp; Studying Systems and Digital Medias in <a href="https://www.ufc.br">Federal University of Ceará</a>.
+ 💼 &nbsp; Working with game design
+ 🌱 &nbsp; Now learning React and Typescript
 
 <p align="center"><i> "Et quacumque viam dederit fortuna sequamur" </i></p>
 <br/>
