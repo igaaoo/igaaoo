@@ -14,7 +14,6 @@ of resources.
  💼 &nbsp; Working with game design <br/>
  🌱 &nbsp; Now learning React and Typescript <br/>
 
-<p align="center"><i> "Et quacumque viam dederit fortuna sequamur" </i></p>
 <br/>
 <h3> :rocket: &nbsp;My Skills: </h3>
 
