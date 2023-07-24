@@ -1,5 +1,5 @@
 
-<h3> 👨‍💻 About me: </h3>
+<h3> About me: </h3>
 
 👨‍💻I have always been passionate about technology, but it was in 2017 that I started my career in programming. I discovered myself in the world of coding, and since then, I haven't stopped developing and learning.
 
