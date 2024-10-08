@@ -1,15 +1,15 @@
 
 <h3> About me: </h3>
 
-👨‍💻I have always been passionate about technology, but it was in 2017 that I started my career in programming. I discovered myself in the world of coding, and since then, I haven't stopped developing and learning.
+Full Stack Developer with expertise in modern technologies like Next.js, React, Node.js, Typescript, and C#. Throughout my career, I have focused on delivering scalable and efficient solutions to meet complex requirements, with a strong emphasis on automation, system integrations, and process optimization.
 
-I learned the basics with Python, and shortly after, I started creating games in C#, where I spent 3 rewarding years studying the language and honing my skills. During this time, I created my most significant work, the Nautilus Simulator.
-
-🌐Eager for progress, I began studying Web development. React and Typescript have been my companions ever since. I learn quickly through hands-on experience, which is why I have several projects posted on GitHub. I recommend taking a look :)
-
-🍁My biggest goal is to obtain Canadian citizenship and work as a developer there, while also balancing productivity and quality time through remote work (still searching for opportunities).
-
-I believe in continuous progress, as obstacles are meant to be overcome.
+〉Full Stack Development (Next.js, React, Node.js)
+〉System Integrations (REST APIs, NBS, Suri, Holmes, Zapier, Infosimples, Google)
+〉Databases (Oracle, MySQL, PostgreSQL)
+〉Code Versioning (Git, Gitlab, Github, Plastic SCM)
+〉Agile Methodologies (SCRUM)
+〉Microservices, Automation, and Infrastructure (Linux, PM2)
+〉Advanced English (C1 - EF SET)
 
 <br/>
 <h3> :rocket: &nbsp;My Skills: </h3>
