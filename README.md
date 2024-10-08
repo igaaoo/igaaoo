@@ -3,13 +3,13 @@
 
 Full Stack Developer with expertise in modern technologies like Next.js, React, Node.js, Typescript, and C#. Throughout my career, I have focused on delivering scalable and efficient solutions to meet complex requirements, with a strong emphasis on automation, system integrations, and process optimization.
 
-〉Full Stack Development (Next.js, React, Node.js)
-〉System Integrations (REST APIs, NBS, Suri, Holmes, Zapier, Infosimples, Google)
-〉Databases (Oracle, MySQL, PostgreSQL)
-〉Code Versioning (Git, Gitlab, Github, Plastic SCM)
-〉Agile Methodologies (SCRUM)
-〉Microservices, Automation, and Infrastructure (Linux, PM2)
-〉Advanced English (C1 - EF SET)
+〉Full Stack Development (Next.js, React, Node.js)<br/>
+〉System Integrations (REST APIs, NBS, Suri, Holmes, Zapier, Infosimples, Google)<br/>
+〉Databases (Oracle, MySQL, PostgreSQL)<br/>
+〉Code Versioning (Git, Gitlab, Github, Plastic SCM)<br/>
+〉Agile Methodologies (SCRUM)<br/>
+〉Microservices, Automation, and Infrastructure (Linux, PM2)<br/>
+〉Advanced English (C1 - EF SET)<br/>
 
 <br/>
 <h3> :rocket: &nbsp;My Skills: </h3>
