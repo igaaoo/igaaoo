@@ -54,7 +54,10 @@ Full Stack Developer with expertise in modern technologies like Next.js, React, 
 <br/>
 
 <h3>Private Gitlab Commits: </h3>
+
 ![image](https://github.com/user-attachments/assets/410bba7f-1850-48cb-a215-c0be4c04371b)
+
+
 
 <br/>
 
